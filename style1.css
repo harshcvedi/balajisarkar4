@@ -1,0 +1,184 @@
+nav {
+  background-color:white;
+  height:70px;
+  width:100%;
+  padding:0px;
+  margin:0px;
+  display:grid;
+  place-items:center;
+  position:fixed;
+  top:0;
+}
+.harsh55{
+  background-image: url("https://w0.peakpx.com/wallpaper/929/367/HD-wallpaper-fruits-fruits-vegetables-fruit-vegetable.jpg");
+  height:500px;
+  width:100%;
+}
+
+.harsh55 h1,p{
+  position:relative;
+  top:100px;
+  color:white;
+}
+ul{
+  display:flex;
+  list-style-type: none;
+}
+.harsh56{
+  position:absolute;
+  left:550px;
+  top:120px;
+}
+.harsh56 .p1{
+  position: absolute;
+  left:40px;
+  top:130px;
+}
+.harsh56 .p2{
+  position: absolute;
+  left:70px;
+  top:150px;
+}
+.harsh56 button{
+  position:absolute;
+  left:130px;
+  top:180px;
+  height:40px;
+  width:120px;
+  border-radius:20px;
+
+}
+.harsh57{
+  margin-left: 75px;
+}
+.harsh57 h1{
+  text-align: center;
+  margin-left: 15px;
+}
+.harsh57 img{
+  height:90px;
+  border-radius:40px;
+  margin-left:550px;
+}
+.harsh57 h5{
+  margin-left:230px;
+  margin-top:40px;
+}
+.harsh57 h2{
+  margin-left:550px;
+  margin-top:30px;
+}
+
+.box1 {
+  border:solid black;
+  height:200px;
+  margin-top:25px;
+  margin-left:30px;
+  padding:20px;
+  width:1200px;
+}
+.back2 button:hover{
+  background-color: blue;
+}
+.l1 h4{
+  position:absolute;
+  left:20px;
+  bottom:1.5px;
+  
+  color:black;
+  font-size: 18px;
+}
+*{
+  margin:0;
+  padding:0;
+}
+.l1 a:hover{
+   color: green;
+}
+.l1 a{
+  padding:15px;
+  text-decoration: none;
+  color:black;
+}
+#th{
+  color:black;
+  position: absolute;
+  top:35%;
+  left:20px;
+}
+.footer div{
+     text-align: center;
+}
+.col-2{
+  flex-grow:2;
+  
+
+}
+.col-2 button{
+  margin-top:10px;
+  border-radius:12px;
+  height: 30px;
+  background:transparent;
+  color:white;
+  border-color: white;
+  width:150px;
+  cursor:pointer;
+}
+.footer{
+  
+  padding: 100px 0 30px;
+  background:#333;
+  color:#efefef;
+  display:flex;
+  
+  bottom: 15px;
+  width: 100%;
+  height: 100px;
+  
+  
+}
+
+.blog{
+  margin-left: 45px;
+}
+.col-1{
+  margin:4px;
+}
+.col-3{
+  margin:4px;
+}
+.col-1 a{
+  display:block;
+  text-decoration:none;
+  color:#efefef;
+}
+.col-3 h3,p{
+  color:white;
+}
+.footer div h3{
+  margin-bottom:20px;
+}
+
+.bl h1{
+  text-align:center;
+  margin
+}
+.blog img{
+  height:300px;
+  width:400px;
+}
+.blog{
+  padding:30px;
+  display:flex;
+}
+.blog button{
+  position: relative;
+  margin-left:140px;
+  margin-top: 5px;
+  border-radius:20px;
+  height: 60px;
+  width:140px;
+}
+.blog button:hover{
+  background-color: aqua;
+}
